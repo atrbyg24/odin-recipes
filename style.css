@@ -1,0 +1,17 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.page-title,
+.section-title {
+    color:lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.page-title {
+    font-size: 20px;
+}
+
+.section-title {
+    font-size: 14px;
+}
