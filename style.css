@@ -2,16 +2,46 @@ body {
     background-color: lightgoldenrodyellow;
 }
 
+ul {
+    display: inline-block;
+    float:none;
+}
+
 .page-title,
 .section-title {
-    color:lightblue;
+    padding: 30px;
+    text-align: center;
+    margin: 10px auto;
+    color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.recipes {
+    padding: 0;
+    background-color: #ccf9ff;
+    border: 1px solid darkblue;
+    margin: 5px auto;
 }
 
 .page-title {
     font-size: 20px;
+    background-color: #0080bf;
 }
 
 .section-title {
     font-size: 14px;
+    width: 200px;
+    background-color: #ccf9ff;
+}
+
+.chinese {
+    background-color:#00acdf;
+}
+
+.italian {
+    background-color: #55d0ff;
+}
+
+.japanese {
+    background-color: #7ce8ff;
 }
